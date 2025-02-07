@@ -14,8 +14,9 @@ In the Projects section, you'll find a list of all projects, each one progressiv
 
 ## 🤖 Table of Contents of Projects
 
-| Project Name | Description | Branch Name |
-| ------------ | ----------- | ----------- |
+| Project Name        | Description                                                                                                 | Branch Name    |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- | -------------- |
+| Monster Slayer Game | A single-page game where players battle monsters. The project showcases the basics of Vue.js functionality. | monster-slayer |
 
 ## 📜 License
 
